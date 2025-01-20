@@ -1,0 +1,48 @@
+.bouquets{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.bouquets .Select{
+    display: flex;
+    width: 100%;
+}
+.bouquets .Select div{
+    width: 20%;
+    padding: 5px;
+}
+.bouquets img{
+    width: 300px;
+    height: 300px;
+}
+.premade{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.premade .Select{
+    display: flex;
+    width: 100%;
+}
+.premade .Select div{
+    width: 20%;
+    padding: 5px;
+}
+.premade img{
+    width: 300px;
+    height: 300px;
+}
+.header{
+    display: flex;
+    width: 100%;
+}
+.header span{
+    width: 80%;
+}
+.links{
+    display: flex;
+    width: 20%;
+}
+.Container{
+    background-color: beige;
+}
