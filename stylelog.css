@@ -1,0 +1,41 @@
+.Containerlog {
+    background-color: beige;
+    height: auto;
+}
+.body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.headerlog{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.Loginbox h3{
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.Loginbox input{
+    width: 40%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.Loginbox button{
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: chartreuse;
+    color:black;
+    align-self: center;
+    align-items: center;
+}

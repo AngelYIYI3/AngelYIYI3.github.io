@@ -1,0 +1,19 @@
+.products{
+    display: flex;
+    padding: 5px;
+}
+.Container{
+    background-color:beige;
+    height: 100%;
+}
+.header{
+    display: flex;
+    width: 100%;
+}
+.header span{
+    width: 80%;
+}
+.links{
+    display: flex;
+    width: 20%;
+}
